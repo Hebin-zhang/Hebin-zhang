@@ -7,7 +7,7 @@
 # About me
 I am studying at Lanzhou University, majoring in bioinformatics.<br>
 Hope our repo interests you.<br>
-Feel free to contact me, I'd love to.<br>
+Feel free to contact me, 喜んで!<br>
 <br>
 <br>
 [![Hebin-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hebin-zhang&count_private=true)](https://github.com/Hebin-zhang)
