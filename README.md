@@ -5,3 +5,4 @@
 [![GitHub stars](https://badgen.net/github/stars/Naereen/Strapdown.js)](https://GitHub.com/Naereen)
 
 [![Hebin-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hebin-zhang)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebin-zhang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
