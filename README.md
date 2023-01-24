@@ -12,10 +12,12 @@ Feel free to contact me, I'd love to.<br>
 <br>
 [![Hebin-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hebin-zhang&count_private=true)](https://github.com/Hebin-zhang)
 <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebin-zhang&layout=compact&count_private=true)](https://github.com/Hebin-zhang)
+
+# Blog
+https://zhenye-na.github.io/
+<br>
 # Contact
 <zhanghb2020@lzu.edu.cn>
-<br>
-# Blog
-Personal website and blog: https://zhenye-na.github.io/
 <br>
