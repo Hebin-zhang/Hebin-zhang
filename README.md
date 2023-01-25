@@ -16,7 +16,7 @@ Feel free to contact me, 喜んで!<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hebin-zhang&layout=compact&count_private=true)](https://github.com/Hebin-zhang)
 
 # Blog
-https://zhenye-na.github.io/
+https://hebin-zhang.github.io/
 <br>
 # Contact
 <zhanghb2020@lzu.edu.cn>
