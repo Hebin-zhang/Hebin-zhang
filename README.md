@@ -5,7 +5,7 @@
 </p>
 
 # About me
-I am studying at Lanzhou University, majoring in bioinformatics and minor in music performance.<br>
+I am studying at Lanzhou University, majoring in bioinformatics and minoring in music performance.<br>
 Hope our repo interests you.<br>
 Feel free to contact me, 喜んで!<br>
 <br>
