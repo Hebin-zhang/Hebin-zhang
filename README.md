@@ -8,7 +8,7 @@ I am studying at Lanzhou University, majoring in bioinformatics and minoring in 
 Hope our repo interests you.<br>
 Feel free to contact me, 喜んで!<br>
 <br>
-<br>6
+<br>
 [![Hebin-zhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hebin-zhang&count_private=true)](https://github.com/Hebin-zhang)
 <br>
 <br>
@@ -18,6 +18,6 @@ Feel free to contact me, 喜んで!<br>
 https://hebin-zhang.github.io/
 <br>
 # Contact
-<zhanghebin@genomics.cn>
-<zhanghb2020@lzu.edu.cn>
+<zhanghebin@genomics.cn><br>
+<zhanghb2020@lzu.edu.cn><br>
 <br>
