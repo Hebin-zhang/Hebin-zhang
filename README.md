@@ -19,5 +19,5 @@ https://hebin-zhang.github.io/
 <br>
 # Contact
 <zhanghebin@genomics.cn><br>
-<zhanghb2020@lzu.edu.cn><br>
+<zhanghebin25@mails.ucas.ac.cn><br>
 <br>
